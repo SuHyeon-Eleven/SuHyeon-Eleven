@@ -4,7 +4,6 @@
 <img src=""  alt=""/>
 <br/>
 <div align="center">
-<img alt="gmail" src ="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minsoohyeon1234@gmail.com"/>
 
 </div>
 
